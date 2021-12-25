@@ -1,0 +1,39 @@
+body {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    background-color: #ffbf83;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    max-width: 500px;
+    height: auto;
+    padding-bottom: 40px;
+}
+
+h1 {
+    color: #691e06;
+}
+
+h2{
+    color: #691e06;
+
+}
+ul {
+    list-style-type:circle;
+    color: #8f350c;
+
+}
+
+li {
+    
+
+}
+
+ol {
+    color: #8f350c;
+    padding-left: 150px;
+
+}
